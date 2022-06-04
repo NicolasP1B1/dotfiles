@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nicolaspenba@unisabana.edu.co
+	name = nicolas pena
